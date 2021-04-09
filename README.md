@@ -17,3 +17,11 @@ make FEED=[path to your feed]
 ```
 make clean
 ```
+
+
+## Example output
+
+This example was made from this feed:
+https://gitlab.com/prpl-foundation/prplwrt/feed-prpl
+
+![Alt text](example.png?raw=true "Example output")
